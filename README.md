@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @NarcisoTB7;
-- 👀 I’m interested in Onika Burguers;
-- 🌱 I’m currently learning Onika Burguers;
-- 💞️ I’m looking to collaborate on Onika Burguers;
+- 👀 I’m interested in Onika Burgers;
+- 🌱 I’m currently learning Onika Burgers;
+- 💞️ I’m looking to collaborate on Onika Burgers;
 - 📫 How to reach me:
 Gmail: cisotb7@gmail.com | Instagram: narcisotb7;
-- 😄 Pronouns: Onika/Burguers;
+- 😄 Pronouns: Onika/Burgers;
 - ⚡ Fun fact: Entrei no carro.
 
 <!---
